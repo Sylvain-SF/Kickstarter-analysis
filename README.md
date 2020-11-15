@@ -1,3 +1,3 @@
-# An Analysis of Kikcstarter Campaigns.
-Analyse of a dataset to perform a crownfunding for a theater play in the U.S.
-Performing analysis on Kickstarter data to uncover trends.
+# kickstarter-analysis
+Performing analysis on Kickstarter data to uncover trends.<br />There is 525 successful campaign for theater in the US.
+![parent_category_outcomes](Images/Projet1/parent_category_outcomes.png)
