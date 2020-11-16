@@ -13,11 +13,11 @@
 
  
 
-![](Ressources\Theater_Outcomes_vs_Launch.png)
+![](Ressources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
-![](Ressources\Outcomes_vs_Goals.png)
+![](Ressources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 First, we analysed outcomes for theater by launch date. Our dataset was not in a consumable format. So we used a pivot table to re-format it, then we could make a plot out of it.<br>
 For our second analysis, we were missing data for the canceled outcome.
